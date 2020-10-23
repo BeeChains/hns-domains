@@ -1,7 +1,7 @@
 ## HNS-DOMAINS
 
 Explore our [Handshake](https://handshake.org/) Top Level Domains below;
-
+Use [HNS.to](http://hns.to/) to resolve domains for now...
 
 - [THE 🕸 3](http://home.xn--the3-iq73c/)
 - [🕸3](http://owntheinternet.🕸3/)
