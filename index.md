@@ -1,6 +1,6 @@
 ## HNS-DOMAINS
 
-Explore...
+Explore our [Handshake](https://handshake.org/) Top Level Domains below;
 
 
 - [THE 🕸 3](http://home.xn--the3-iq73c/)
