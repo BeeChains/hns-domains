@@ -1,0 +1,2 @@
+# hns-domains
+HNS-DOMAINS
