@@ -112,6 +112,8 @@ Use [HNS.to](http://hns.to/) to resolve domains for now...
 - [youareguru](http://iam.youareguru/)
 
 
+[Buy, Sell, or Trade here ![image](https://user-images.githubusercontent.com/37987346/97064635-5a94f300-1575-11eb-93ae-fc71560b1571.png)](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)
+
 To inquiry, email [bthespirit777@protonmail.com](https://protonmail.com/)
 - send ETH contributions to 0x5d9cb07d2f78dd60be6da855a97439c631d5b456
 - send HNS contributions to hs1qgm5aqe467tuh9wauaffmtk49pw8euk2kww6hc8
