@@ -106,6 +106,7 @@ Use [HNS.to](http://hns.to/) to resolve domains for now...
 - [thepeacekeepers](https://siasky.net/hns/thepeacekeepers/) this domain uses the [Sia decentralized skynet](https://siasky.net/)
 - [THEPEOPLE](http://we.thepeople/)
 - [THEROOTZONE](http://dnssecuritygroup.therootzone/)
+- [Third Eye United Vision](http://home.thirdeyeunitedvision/)
 - [tinfoilhatgang](http://the.tinfoilhatgang/)
 - [universaloperationalordinance/](https://www.dkb-mevlana.org.tr/en/txt/tanitim.pdf)
 - [WebSecurityGroup/](http://admin.websecuritygroup/)
