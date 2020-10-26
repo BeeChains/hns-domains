@@ -69,6 +69,7 @@ Use [HNS.to](http://hns.to/) to resolve domains for now...
 - [HNS-BROTHERHOOD](http://home.hns-brotherhood/)
 - [hnscrypto](http://thebarron.hnscrypto/)
 - [HNS-DOMAINS](http://home.hns-domains/)
+- [HNS ROOT](http://home.hnsroot/)
 - [holistichealing](http://innerinetcompany.holistichealing/)
 - [IlluminadiCongo](https://illuminaticongo.com/)
 - [INDIGO-STARSEED](http://innerinetcompany.indigo-starseed/)
