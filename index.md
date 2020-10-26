@@ -8,6 +8,7 @@ Use [HNS.to](http://hns.to/) to resolve domains for now...
 - [AgniYogi](http://agniyoga.org/index.php)
 - [AllSeeingI](http://innerinetfounder.allseeingi/)
 - [atlantabiz](http://welcomeatl.atlantabiz/)
+- [Authentic Vibes LLC](http://home.authenticvibesllc/)
 - [ancientmanuscripts](http://home.ancientmanuscripts/)
 - [atlantalaw/](http://toplawyers.atlantalaw/)
 - [BENESS](http://herenow.beness/)
