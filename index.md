@@ -3,6 +3,7 @@
 Explore our [Handshake](https://handshake.org/) Top Level Domains below;
 Use [HNS.to](http://hns.to/) to resolve domains for now...
 
+- [THE 🕸](http://weown.xn--the-9023b.hns.to/)
 - [THE 🕸 3](http://home.xn--the3-iq73c/)
 - [🕸3](http://owntheinternet.🕸3/)
 - [AgniYogi](http://agniyoga.org/index.php)
@@ -13,10 +14,8 @@ Use [HNS.to](http://hns.to/) to resolve domains for now...
 - [atlantalaw/](http://toplawyers.atlantalaw/)
 - [BENESS](http://herenow.beness/)
 - [B-The-Spirit](http://i.b-the-spirit/)
-- [144000](http://redeemers.144000/)
-- [redeemer1.144000](http://redeemer1.144000/)
-- [redeemer2.144000](http://redeemer2.144000/)
-- [redeemer3.144000](http://redeemer3.144000/)
+- [144000](http://redeemers.144000/) |[redeemer1.144000](http://redeemer1.144000/) | [redeemer2.144000](http://redeemer2.144000/) | [redeemer3.144000](http://redeemer3.144000/)
+
 - [1timefeedomains](http://home.1timefeedomains/)
 - [1timehandshake](http://home.1timehandshake/)
 - [1wav](https://soundcloud.com/bthespirit/1st-wave/)
