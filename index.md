@@ -91,6 +91,7 @@ Use [HNS.to](http://hns.to/) to resolve domains for now...
 - [OUDTREPRENEUR](http://home.oudtrepreneur/) I like Oud.
 - [OUTTHAMUD](http://herenow.outthamud/)
 - [OUTTHEMUD](http://gleaming.outthemud/)
+# [OwnTheWeb3/](http://official.owntheweb3/) | [OnTheWEB3](http://innerinetcompany.ontheweb3/)
 - [() domain](http://home.xn---e7n/) 
 - [RAINBOWTRIBES](http://unite.rainbowtribes/)
 - [raspberrypios](http://home.raspberrypios/)
@@ -110,6 +111,7 @@ Use [HNS.to](http://hns.to/) to resolve domains for now...
 - [tinfoilhatgang](http://the.tinfoilhatgang/)
 - [universaloperationalordinance/](https://www.dkb-mevlana.org.tr/en/txt/tanitim.pdf)
 - [WebSecurityGroup/](http://admin.websecuritygroup/)
+# [WeOWNTheINTERNET/](http://innerinetcompany.weowntheinternet.hns.to/) | [WeOWNTheWEB3/](http://innerinetcompany.weowntheweb3/)
 - [WETRIPPY](http://hns.wetrippy/)
 - [youareguru](http://iam.youareguru/)
 
