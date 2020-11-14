@@ -89,7 +89,7 @@ Use [HNS.to](http://hns.to/) to resolve domains for now...
 - [MySpiritWave Crypto Exchange](https://exchange.myspiritwave.xyz/) use my [CoinSwitch Referral link](https://coinswitch.co/?ref=ZTELTB86NM)
 # NetworkManager | [admin.networkmanager](http://admin.networkmanager/) | [localhost.networkmanager](http://localhost.networkmanager/) | [root.networkmanager](http://root.networkmanager/)
 
-- [NXDOMAIN/](http://herenow.nxdomain/)
+- [NXDOMAIN/](http://iamxdomain.nxdomain/)
 - [organicallygrown/](http://davenportrootscompany.organicallygrown)
 - [OUDTREPRENEUR/](http://home.oudtrepreneur/) I like Oud.
 - [OUTTHAMUD/](http://herenow.outthamud/)
