@@ -1,7 +1,7 @@
 ## HNS-DOMAINS
 
 Explore our [Handshake](https://handshake.org/) Top Level Domains below;
-Use [HNS.to](http://hns.to/) to resolve domains for now...
+Use [HNS.to](http://hns.to/) to resolve domains for now... Get a subdomain on any of our Domains, pay ONCE have a WEB SITE FOREVER, pretty much. Less censorship and near zero gatekeepers. [WeOwnTheIneternet](http://innerinetcompany.weowntheinternet/).
 
 - [THE 🕸](http://weown.xn--the-9023b.hns.to/)
 - [THE 🕸 3](http://home.xn--the3-iq73c/)
@@ -125,7 +125,8 @@ Use [HNS.to](http://hns.to/) to resolve domains for now...
 
 [Buy, Sell, or Trade here ![image](https://user-images.githubusercontent.com/37987346/97064635-5a94f300-1575-11eb-93ae-fc71560b1571.png)](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)
 
-To inquiry, email [bthespirit777@protonmail.com](https://protonmail.com/)
+Query [InnerINetCompany](https://innerinetcompany.carrd.co/) and Shape Reality with us.
+For a subdomain, email [bthespirit777@protonmail.com](https://protonmail.com/)
 - send ETH contributions to 0x5d9cb07d2f78dd60be6da855a97439c631d5b456
 - send HNS contributions to hs1qgm5aqe467tuh9wauaffmtk49pw8euk2kww6hc8
 - send BTC contributions to 17LnDXSxVDcWLKqaKLhtJV5w8L9PACwhNW
