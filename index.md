@@ -1,7 +1,7 @@
 ## HNS-DOMAINS
 
 Explore our [Handshake](https://handshake.org/) Top Level Domains below;
-Use [HNS.to](http://hns.to/) to resolve domains for now... Get a subdomain on any of our Domains, pay ONCE have a WEB SITE FOREVER, pretty much. Less censorship and near zero gatekeepers. [WeOwnTheIneternet](http://innerinetcompany.weowntheinternet/).
+Use [HNS.to](http://hns.to/) to resolve domains for now... Get a subdomain on any of our Domains, pay ONCE have a WEB SITE FOREVER, pretty much. Less censorship and near zero gatekeepers. [WeOwnTheInternet](http://innerinetcompany.weowntheinternet/).
 
 - [THE 🕸](http://weown.xn--the-9023b.hns.to/)
 - [THE 🕸 3](http://home.xn--the3-iq73c/)
