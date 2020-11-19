@@ -38,6 +38,7 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [DEADHEAD/](http://grateful.deadhead/)
 - [DECENTRALIZED DNS/](http://dnsdesigns.decentralizeddns/)
 - [dnssecuritygroup/](http://therootzone.dnssecuritygroup/)
+- [DomainADMINinstrator/](http://hns-domains.domainadministrator/)
 - [dragonriders/](http://the.dragonriders/)
 - [earthheart/](http://heartearth.earthheart/)
 - [EarthKeepers/](https://www.grandmotherscouncil.org/mitakuye-oyasin-all-my-relations/)
