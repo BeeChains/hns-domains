@@ -82,6 +82,7 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [innerinetfounder/](http://home.innerinetfounder/)
 - [innerinetworkpresident/](http://official.innerinetworkpresident)
 - [JAH-LIVE/](http://iandi.jah-live/)
+- [Kali Shakti Drinking Hemoglobin Like Saké](http://sourcewithin.kalishaktidrinkinghemoglobinlikesaké)
 - [KOZMOZ MATRIX/](http://innerchamber.kozmozmatrix/)
 - [lux299/](http://home.lux299/)
 - [marsapiens/](http://home.marsapiens/)
