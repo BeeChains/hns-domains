@@ -76,6 +76,7 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [HNS ROOT/](http://home.hnsroot/)
 - [holistichealing/](http://innerinetcompany.holistichealing/)
 - [IlluminadiCongo/](https://illuminaticongo.com/)
+- [illuminati🙌congo/](https://illuminaticongo.com/)
 - [INDIGO-STARSEED/](http://innerinetcompany.indigo-starseed/)
 - [Inner I Net Company/](http://shapereality.innerinetcompany/) Handshake site. | [Inner I Net Company](https://innerinetcompany.webflow.io/) WebFlow site.
 - [innerinetfoundation/](http://official.innerinetfoundation)
