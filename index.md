@@ -25,6 +25,7 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [bhackme](http://home.bhackme/)
 - [bhandshake](http://try.bhandshake/)
 - [bmindful](http://herenow.bmindful/)
+- [Broke The 7 Seals Let The 🌈 Spin](http://sourcewithin.xn--brokethe7sealsletthespin-uu81x/)
 - [CLEMSONUNIVERSITYOFSOUTHCAROLINA/](http://hns.clemsonuniversityofsouthcarolina/)
 - [CHARLOTTE NC](http://innerinetcompany.charlottenc/)
 - [CHINAKING](http://eatchinaking.com/)
