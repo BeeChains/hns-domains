@@ -7,6 +7,7 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [THE 🕸 3](http://home.xn--the3-iq73c/)
 - [🕸3](http://owntheinternet.🕸3/)
 - [AgniYogi](http://agniyoga.org/index.php)
+- [⚗ Alchemy](http://inner.xn--alchemy-2x7d/)
 - [AllSeeingI](http://innerinetfounder.allseeingi/)
 - [atlantabiz](http://welcomeatl.atlantabiz/)
 - [Authentic Vibes LLC](http://home.authenticvibesllc/)
