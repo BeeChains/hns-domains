@@ -81,6 +81,7 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [IlluminadiCongo/](https://illuminaticongo.com/)
 - [illuminati🙌congo/](https://illuminaticongo.com/)
 - [INDIGO-STARSEED/](http://innerinetcompany.indigo-starseed/)
+- [Infinite Handshake/](http://herenow.infinitehandshake/)
 - [Inner I Net Company/](http://shapereality.innerinetcompany/) Handshake site. | [Inner I Net Company](https://innerinetcompany.webflow.io/) WebFlow site.
 - [innerinetfoundation/](http://official.innerinetfoundation)
 - [innerinetfounder/](http://home.innerinetfounder/)
@@ -119,6 +120,7 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [THE MOTHERSHIP/](http://herenow.themothership/)
 - [thePEACEkeepers](https://siasky.net/hns/thepeacekeepers/) this domain uses the [Sia decentralized skynet](https://siasky.net/)
 - [THE PEOPLE/](http://we.thepeople/)
+- [THE PRESENT MOMENT/](http://herenow.thepresentmoment/)
 - [THEROOTZONE](http://dnssecuritygroup.therootzone/)
 - [The-TLD](http://official.the-tld/)
 - [Third EYE UNITED Vision/](http://home.thirdeyeunitedvision/)
