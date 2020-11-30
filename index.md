@@ -32,6 +32,7 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [CHINAKING](http://eatchinaking.com/)
 - [CHINA-KING](http://eatchinaking.com/)
 - [COFFEE SIPPERS/](http://home.coffeesippers/)
+- [COMZ/](https://custom.comz.hns.to/)
 - [CosMatrixFoundation/](http://binnerspace.cosmatrixfoundation/)
 - [CosmicSpace/](http://home.cosmicspace/)
 - [CrystallineBeing/](http://evolvement.crystallinebeing/)
