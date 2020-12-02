@@ -128,6 +128,8 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [Third EYE UNITED Vision/](http://home.thirdeyeunitedvision/)
 - [TinFoilHatGang/](http://the.tinfoilhatgang/)
 - [universaloperationalordinance/](https://www.dkb-mevlana.org.tr/en/txt/tanitim.pdf)
+- [UX-MINDS/](http://ignite.ux-minds.hns.to/)
+- [W🕸b3/](https://home.xn--wb3-7023b.hns.to/)
 - [WebSecurityGroup/](http://admin.websecuritygroup/)
 # [WeOWNTheINTERNET/](http://innerinetcompany.weowntheinternet.hns.to/) | [WeOWNTheWEB3/](http://innerinetcompany.weowntheweb3/)
 - [WETRIPPY/](http://hns.wetrippy/)
