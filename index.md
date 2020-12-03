@@ -76,6 +76,7 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [HNS-BLOCKCHAIN/](https://source-within.hns-blockchain/)
 - [HNS-BROTHERHOOD/](http://home.hns-brotherhood/)
 - [HNS CRYPTO/](http://thebarron.hnscrypto/)
+- [HNS-DEV/](https://home.hns-dev.hns.to/)
 - [HNS-DOMAINS/](http://home.hns-domains/)
 - [HNS-GURU/](http://youareguru.hns-guru/)
 - [HNS ROOT/](http://home.hnsroot/)
