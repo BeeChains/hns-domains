@@ -16,6 +16,7 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [atlantalaw/](http://toplawyers.atlantalaw/)
 - [BENESS](http://herenow.beness/)
 - [B-The-Spirit](http://i.b-the-spirit/)
+- [Blue-Heart/](https://www.youtube.com/watch?v=7ehwAV-SM04/)
 - [144000](http://redeemers.144000/) |[redeemer1.144000](http://redeemer1.144000/) | [redeemer2.144000](http://redeemer2.144000/) | [redeemer3.144000](http://redeemer3.144000/)
 
 - [1timefeedomains](http://home.1timefeedomains/)
