@@ -4,6 +4,7 @@ Tired of Paying Rent for your domains and websites go here [Learn NameBase](http
 Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdomain on any of our Top Level Domains, make a Handshake ONCE and OWN WEB SPACE with us. Less censorship and near zero gatekeepers. Now, WE CAN say [We Own The Internet](http://innerinetcompany.weowntheinternet/) with [proof of work](https://hackernoon.com/everything-you-didnt-know-about-the-handshake-naming-system-how-this-blockchain-project-will-483464309f33). Make an offer on any of these Top Level Domains at [NameBase](https://namebase.io/), or see [Inner I Net Company/](https://innerinetcompany.carrd.co/) for a subdomain now!
 
 - [A👁/](https://allseeingi.xn--a-z42s.hns.to/)
+- [🌲.Treed Up Binghi/](http://xn--vh8h.treedupbinghi.hns.to/)
 - [THE 🕸](http://weown.xn--the-9023b.hns.to/)
 - [THE 🕸 3](http://home.xn--the3-iq73c/)
 - [🕸3](http://owntheinternet.🕸3/)
