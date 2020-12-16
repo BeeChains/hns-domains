@@ -119,6 +119,7 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [raspberrypios/](http://home.raspberrypios/)
 - [Real Estate CO/](http://shapingreality.realestateco/)
 - [Real Estate LLC/](http://shapereality.realestatellc/)
+- [SACRED ESSENCE](http://inner.sacredessence.hns.to/)
 - [SACRED VIBES](http://home.sacredvibes/)
 - [SHAPE REALITY/](http://innerinetcompany.shapereality/)
 - [SHAPING REALITY/](http://reddragonmatrix.shapingreality)
