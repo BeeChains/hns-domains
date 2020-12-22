@@ -156,6 +156,6 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 
 Query [InnerINetCompany](https://innerinetcompany.carrd.co/) and Shape Reality with us.
 For a subdomain, [contact](https://innerinetcompany.webflow.icontacto/)
-- send ETH contributions to 0x5d9cb07d2f78dd60be6da855a97439c631d5b456
+- send ETH contributions to [0x5d9cb07d2f78dd60be6da855a97439c631d5b456](0x5d9cb07d2f78dd60be6da855a97439c631d5b456)
 - send HNS contributions to [hs1qgm5aqe467tuh9wauaffmtk49pw8euk2kww6hc8](hs1qgm5aqe467tuh9wauaffmtk49pw8euk2kww6hc8)
-- send BTC contributions to 17LnDXSxVDcWLKqaKLhtJV5w8L9PACwhNW
+- send BTC contributions to [17LnDXSxVDcWLKqaKLhtJV5w8L9PACwhNW](17LnDXSxVDcWLKqaKLhtJV5w8L9PACwhNW)
