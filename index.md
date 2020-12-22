@@ -3,17 +3,17 @@
 
 by [![image](https://user-images.githubusercontent.com/37987346/101912317-96206680-3b8f-11eb-910e-d9d7e5015035.png)](https://innerinetcompany.webflow.io/contact)
 
-[OwnTheWeb3/](http://official.owntheweb3/) we Consciously CHOOSE to Bend and [SHAPE Reality/](http://innerinetcompany.shapereality.hns.to.hns.to/) while customizing the Root Zone File of the Internet beggining from the Root Of Perception. Tired of Paying Rent for your domains and websites go here [Learn NameBase](https://learn.namebase.io/). Explore our [Handshake](https://handshake.org/) Top Level Domains listed below;
-Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdomain on any of our Top Level Domains, make a Handshake ONCE and OWN WEB SPACE with us. Less censorship and near zero gatekeepers. Now, WE CAN say [We Own The Internet](http://innerinetcompany.weowntheinternet/) with [proof of work](https://hackernoon.com/everything-you-didnt-know-about-the-handshake-naming-system-how-this-blockchain-project-will-483464309f33). Make an offer on any of these Top Level Domains at [NameBase](https://namebase.io/), or contact [Inner I Net Company/](https://innerinetcompany.webflow.icontacto/) for a subdomain now!
+[OwnTheWeb3/](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality/](http://innerinetcompany.shapereality.hns.to/) while customizing the Root Zone File of the Internet beggining from the Root Of Perception. Tired of Paying Rent for your domains and websites go here [Learn NameBase](https://learn.namebase.io/). Explore our [Handshake](https://handshake.org/) Top Level Domains listed below;
+Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdomain on any of our Top Level Domains, make a Handshake ONCE and OWN WEB SPACE with us. Less censorship and near zero gatekeepers. Now, WE CAN say [We Own The Internet](http://innerinetcompany.weowntheinternet.hns.to/) with [proof of work](https://hackernoon.com/everything-you-didnt-know-about-the-handshake-naming-system-how-this-blockchain-project-will-483464309f33). Make an offer on any of these Top Level Domains at [NameBase](https://namebase.io/), or contact [Inner I Net Company/](https://innerinetcompany.webflow.icontacto/) for a subdomain now!
 
 - [A👁/](https://allseeingi.xn--a-z42s.hns.to/)
 - [🌲.Treed Up Binghi/](http://xn--vh8h.treedupbinghi.hns.to/)
 - [THE 🕸](http://weown.xn--the-9023b.hns.to/)
-- [THE 🕸 3](http://home.xn--the3-iq73c/)
-- [🕸3](http://owntheinternet.🕸3/)
+- [THE 🕸 3](http://home.xn--the3-iq73c.hns.to/)
+- [🕸3](http://owntheinternet.🕸3.hns.to/)
 - [AgniYogi](http://agniyoga.org/index.php)
 - [⚗ Alchemy](http://inner.xn--alchemy-2x7d/)
-- [AllSeeingI](http://innerinetfounder.allseeingi/)
+- [AllSeeingI](http://innerinetfounder.allseeingi.hns.to/)
 - [atlantabiz](http://welcomeatl.atlantabiz/)
 - [Authentic Vibes LLC](http://home.authenticvibesllc/)
 - [ancientmanuscripts](http://home.ancientmanuscripts/)
