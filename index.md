@@ -4,7 +4,7 @@
 by [![image](https://user-images.githubusercontent.com/37987346/101912317-96206680-3b8f-11eb-910e-d9d7e5015035.png)](https://innerinetcompany.webflow.io/contact)
 
 [OwnTheWeb3/](http://official.owntheweb3/) we Consciously CHOOSE to Bend and [SHAPE Reality/](http://innerinetcompany.shapereality.hns.to.hns.to/) while customizing the Root Zone File of the Internet beggining from the Root Of Perception. Tired of Paying Rent for your domains and websites go here [Learn NameBase](https://learn.namebase.io/). Explore our [Handshake](https://handshake.org/) Top Level Domains listed below;
-Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdomain on any of our Top Level Domains, make a Handshake ONCE and OWN WEB SPACE with us. Less censorship and near zero gatekeepers. Now, WE CAN say [We Own The Internet](http://innerinetcompany.weowntheinternet/) with [proof of work](https://hackernoon.com/everything-you-didnt-know-about-the-handshake-naming-system-how-this-blockchain-project-will-483464309f33). Make an offer on any of these Top Level Domains at [NameBase](https://namebase.io/), or see [Inner I Net Company/](https://innerinetcompany.carrd.co/) for a subdomain now!
+Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdomain on any of our Top Level Domains, make a Handshake ONCE and OWN WEB SPACE with us. Less censorship and near zero gatekeepers. Now, WE CAN say [We Own The Internet](http://innerinetcompany.weowntheinternet/) with [proof of work](https://hackernoon.com/everything-you-didnt-know-about-the-handshake-naming-system-how-this-blockchain-project-will-483464309f33). Make an offer on any of these Top Level Domains at [NameBase](https://namebase.io/), or contact [Inner I Net Company/](https://innerinetcompany.webflow.icontacto/) for a subdomain now!
 
 - [A👁/](https://allseeingi.xn--a-z42s.hns.to/)
 - [🌲.Treed Up Binghi/](http://xn--vh8h.treedupbinghi.hns.to/)
@@ -27,6 +27,7 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [1timehandshake](http://home.1timehandshake/)
 - [1wav](https://soundcloud.com/bthespirit/1st-wave/)
 - [3rd👁](http://uniop.xn--3rd-q013b/)
+- [BABYLON FALLING/](http://babylonfalling.hns.to/)
 - [bcrypto8](http://home.bcrypto8/)
 - [beenlit](http://barron.beenlit/)
 - [bhackme](http://home.bhackme/)
@@ -60,14 +61,18 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [entrepreneurodomains/](http://podvig.entrepreneurodomains/)
 - [EVOLVEMENTCHAIN/](https://www.dkb-mevlana.org.tr/en/txt/tanitim.pdf)
 - [farmhemp/](http://hempdomain.farmhemp/)
+- [FIRE BURNIN/](http://fireburnin.hns.to/)
+- [FIRE BURN DEM/](http://fireburndem.hns.to/)
 - [forbobanddouginspace/](http://dragon.forbobanddouginspace/)
 - [Lost Fragrance of The Mountain Gods/](http://hns.lostfragranceofthemountaingods/)
+- [GATEK33PERS/](http://gatek33pers.hns.to/)
 - [getlifted/](http://bthespirit.getlifted/)
 - [googlebug/](http://home.googlebug/)
 - [googlenow/](http://hello.googlenow/)
 - [googlerobot/](http://home.googlerobot/)
 - [googlethatshit/](http://home.googlethatshit/)
 - [googleusa/](http://home.googleusa/)
+- [Handshake-Coin/](http://handshake-coin.hns.to/) 
 - [hackmedomain/](http://loveme.hackmedomain/)
 - [hackmeweb/](http://hns.hackmeweb/)
 - [HACK THE 🌈/](http://🕸3.hackthe🌈/)
@@ -81,9 +86,11 @@ Use [HNS.to](http://hns.to/) to resolve Handshake domains for now... Get a subdo
 - [HIVEMIND/](http://we.hivemind/)
 - [HNS-BLOCKCHAIN/](https://source-within.hns-blockchain/)
 - [HNS-BROTHERHOOD/](http://home.hns-brotherhood/)
+- [HNS COINS/](http://hnscoins.hns.to/)
 - [HNS CRYPTO/](http://thebarron.hnscrypto/)
 - [HNS-DEV/](https://home.hns-dev.hns.to/)
 - [HNS-DOMAINS/](http://home.hns-domains/)
+- [HNS-DOMAINS1/](http://hns-domains1.hns.to/)
 - [HNS-GURU/](http://youareguru.hns-guru/)
 - [HNS ROOT/](http://home.hnsroot/)
 - [holistichealing/](http://innerinetcompany.holistichealing/)
