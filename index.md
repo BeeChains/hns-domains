@@ -122,7 +122,7 @@ by [![image](https://user-images.githubusercontent.com/37987346/101912317-962066
 - [OUTTHEMUD/](http://gleaming.outthemud/)
 - [OWN THE INNER I](http://youareguru.owntheinneri/)
 - [OWN THE INNER I NET](http://youareguru.owntheinnerinet/)
-# [OwnTheWeb3/](http://official.owntheweb3.hns.to//) | [OnTheWEB3](http://innerinetcompany.ontheweb3.hns.to/)
+# [OwnTheWeb3/](http://official.owntheweb3.hns.to/) | [OnTheWEB3](http://innerinetcompany.ontheweb3.hns.to/)
 - [() domain](http://home.xn---e7n.hns.to/) 
 - [RAINBOWTRIBES/](http://unite.rainbowtribes.hns.to/)
 - [raspberrypios/](http://home.raspberrypios/)
