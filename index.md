@@ -8,6 +8,7 @@ by [![image](https://user-images.githubusercontent.com/37987346/101912317-962066
  - Less censorship and near zero gatekeepers. Tired of Paying Rent for your domains and websites. Now, WE CAN say [We Own The Internet](http://innerinetcompany.weowntheinternet.hns.to/) with [proof of work](https://hackernoon.com/everything-you-didnt-know-about-the-handshake-naming-system-how-this-blockchain-project-will-483464309f33). Make an offer on any of these Top Level Domains at [NameBase](https://namebase.io/), or contact [Inner I Net Company/](https://innerinetcompany.webflow.icontacto/) for a subdomain now!
 
 - [A👁/](https://allseeingi.xn--a-z42s.hns.to/)
+- [鼠牛虎兔龙蛇马羊猴鸡狗猪/](http://bmindful.鼠牛虎兔龙蛇马羊猴鸡狗猪.hns.to/)
 - [🌲.Treed Up Binghi/](http://xn--vh8h.treedupbinghi.hns.to/)
 - [THE 🕸](http://weown.xn--the-9023b.hns.to/)
 - [THE 🕸 3](http://home.xn--the3-iq73c.hns.to/)
