@@ -1,2 +1,2 @@
-# hns-domains
+# hns-domains | a Handshake TLD
 HNS-DOMAINS
