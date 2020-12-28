@@ -3,7 +3,7 @@
 
 by [![image](https://user-images.githubusercontent.com/37987346/101912317-96206680-3b8f-11eb-910e-d9d7e5015035.png)](https://innerinetcompany.webflow.io/contact)
 
-Carpe Diem.()
+[Carpe Diem.()/](https://carpediem.xn---e7n.hns.to/)
 # At [Inner I Net Company](http://shapereality.innerinetcompany.hns.to/) our Handshake Top Level Domains are Grown from the ROOT OF PERCEPTION! [OwnTheWeb3/](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality/](http://innerinetcompany.shapereality.hns.to/) while customizing the Root Zone File of the Internet...Explore our [HNS-DOMAINS](http://home.hns-domains.hns.to/)
 
  - Less censorship and near zero gatekeepers. Tired of Paying Rent for your domains and websites. Now, WE CAN say [We Own The Internet](http://innerinetcompany.weowntheinternet.hns.to/) with [proof of work](https://hackernoon.com/everything-you-didnt-know-about-the-handshake-naming-system-how-this-blockchain-project-will-483464309f33). Make an offer on any of these Top Level Domains at [NameBase](https://namebase.io/), or contact [Inner I Net Company/](https://innerinetcompany.webflow.icontacto/) for a subdomain now!
