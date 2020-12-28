@@ -97,7 +97,7 @@ by [![image](https://user-images.githubusercontent.com/37987346/101912317-962066
 - [HNS ROOT/](http://home.hnsroot.hns.to/)
 - [holistichealing/](http://innerinetcompany.holistichealing.hns.to/)
 - [IlluminadiCongo/](https://illuminaticongo.com/)
-- [illuminati🙌congo/](https://illuminaticongo.com/)
+- [illuminati🙌congo/](https://illuminaticongo.com/) | [⚔.illuminati🙌congo.hns.to/](http://xn--s7h.xn--illuminaticongo-4319n.hns.to)
 - [INDIGO-STARSEED/](http://innerinetcompany.indigo-starseed.hns.to/)
 - [Infinite Handshake/](http://herenow.infinitehandshake.hns.to/)
 - [Inner I Net Company/](http://shapereality.innerinetcompany.hns.to/) Handshake site. | [Inner I Net Company](https://innerinetcompany.webflow.io/) WebFlow site.
