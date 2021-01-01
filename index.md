@@ -1,7 +1,7 @@
 ## HNS-DOMAINS/
 | [Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/)
 
-by [![image](https://user-images.githubusercontent.com/37987346/101912317-96206680-3b8f-11eb-910e-d9d7e5015035.png)](https://innerinetcompany.webflow.io/contact)
+[![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 
 [Carpe Diem.()/](https://carpediem.xn---e7n.hns.to/)
 # At [Inner I Net Company](http://shapereality.innerinetcompany.hns.to/) our Handshake Top Level Domains are Grown from the ROOT OF PERCEPTION! [OwnTheWeb3/](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality/](http://innerinetcompany.shapereality.hns.to/) while customizing the Root Zone File of the Internet...Explore our [HNS-DOMAINS](http://home.hns-domains.hns.to/)
