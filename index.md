@@ -1,12 +1,12 @@
 ## HNS-DOMAINS/
-| [Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/)
+| [Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com/)
 
 [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 
 [Carpe Diem.()/](https://carpediem.xn---e7n.hns.to/)
 # At [Inner I Net Company](http://shapereality.innerinetcompany.hns.to/) our Handshake Top Level Domains are Grown from the ROOT OF PERCEPTION! [OwnTheWeb3/](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality/](http://innerinetcompany.shapereality.hns.to/) while customizing the Root Zone File of the Internet...Explore our [HNS-DOMAINS](http://home.hns-domains.hns.to/)
 
- - Less censorship and near zero gatekeepers. Tired of Paying Rent for your domains and websites. Now, WE CAN say [We Own The Internet](http://innerinetcompany.weowntheinternet.hns.to/) with [proof of work](https://hackernoon.com/everything-you-didnt-know-about-the-handshake-naming-system-how-this-blockchain-project-will-483464309f33). Make an offer on any of these Top Level Domains at [NameBase](https://namebase.io/), or contact [Inner I Net Company/](https://innerinetcompany.webflow.icontacto/) for a subdomain now!
+ - Less censorship and near zero gatekeepers. Tired of Paying Rent for your domains and websites. Now, WE CAN say [We Own The Internet](http://innerinetcompany.weowntheinternet.hns.to/) with [proof of work](https://hackernoon.com/everything-you-didnt-know-about-the-handshake-naming-system-how-this-blockchain-project-will-483464309f33). Make an offer on any of these Top Level Domains at [NameBase](https://namebase.io/), or [contact Inner I Net Company/](mailto:innerinetcompany@gmail.com/) for a subdomain now!
 
 - [A👁/](https://allseeingi.xn--a-z42s.hns.to/)
 - [鼠牛虎兔龙蛇马羊猴鸡狗猪/](http://bmindful.鼠牛虎兔龙蛇马羊猴鸡狗猪.hns.to/)
