@@ -115,6 +115,7 @@
 - [lux299/](http://home.lux299/)
 - [marsapiens/](http://home.marsapiens.hns.to/)
 - [MASTERTHYSELF/](http://innerinetcompany.masterthyself.hns.to/) Handshake site. | [MasterThyself/](https://masterthyself.joomla.com/) Joomla site.
+- [Magiik/](http://magiik.hns.to/)
 - [MEDICINETRIBE/](http://the.medicinetribe.hns.to/)
 - [🍄magic/](http://xn--hackthe-oq74f.xn--magic-yn93d.hns.to/) | [Hackthe🌈.🍄magic/](http://xn--hackthe-oq74f.xn--magic-yn93d.hns.to/)
 - [MySpiritWave Crypto Exchange](https://exchange.myspiritwave.xyz/) use my [CoinSwitch Referral link](https://coinswitch.co/?ref=ZTELTB86NM)
