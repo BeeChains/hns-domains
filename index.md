@@ -33,6 +33,7 @@
 - [3rd👁](http://uniop.xn--3rd-q013b.hns.to/)
 - [5D Web/](http://innericompany.5dweb.hns.to/)
 - [BABYLON FALLING/](http://babylonfalling.hns.to/)
+- [BATHING APES](http://bathingapes.hns.to/)
 - [bcrypto8](http://home.bcrypto8.hns.to/)
 - [beenlit](http://barron.beenlit.hns.to/)
 - [bhackme](http://home.bhackme.hns.to/)
@@ -112,6 +113,7 @@
 - [InnerINetworkSecurtiy/](http://masterthyself.innerinetworksecurity.hns.to/)
 - [JAH-LIVE/](http://iandi.jah-live.hns.to/)
 - [Kali Shakti Drinking Hemoglobin Like Saké](http://sourcewithin.kalishaktidrinkinghemoglobinlikesaké.hns.to/)
+- [KNOW THYSELF/](http://knowthyself.hns.to/)
 - [KOZMOZ MATRIX/](http://innerchamber.kozmozmatrix.hns.to/)
 - [lux299/](http://home.lux299/)
 - [marsapiens/](http://home.marsapiens.hns.to/)
@@ -122,7 +124,6 @@
 - [MySpiritWave Crypto Exchange](https://exchange.myspiritwave.xyz/) use my [CoinSwitch Referral link](https://coinswitch.co/?ref=ZTELTB86NM)
 # NetworkManager | [admin.networkmanager](http://admin.networkmanager.hns.to/) | [localhost.networkmanager](http://localhost.networkmanager/) | [root.networkmanager](http://root.networkmanager/)
 
-- [NXDOMAIN/](http://iamxdomain.nxdomain.hns.to/)
 - [organicallygrown/](http://davenportrootscompany.organicallygrow.hns.to/)
 - [OUDTREPRENEUR/](http://home.oudtrepreneur/) I like Oud.
 - [OUTTHAMUD/](http://herenow.outthamud/)
