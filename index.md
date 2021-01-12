@@ -40,7 +40,6 @@
 - [bhandshake](http://try.bhandshake.hns.to/)
 - [bmindful](http://herenow.bmindful.hns.to/)
 - [Broke The 7 Seals Let The 🌈 Spin](http://sourcewithin.xn--brokethe7sealsletthespin-uu81x.hns.to/)
-- [CLEMSONUNIVERSITYOFSOUTHCAROLINA/](http://hns.clemsonuniversityofsouthcarolina.hns.to/)
 - [CHARLOTTE NC](http://innerinetcompany.charlottenc.hns.to/)
 - [CHINAKING](http://eatchinaking.com/)
 - [CHINA-KING](http://eatchinaking.com/)
