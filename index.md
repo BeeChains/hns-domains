@@ -9,6 +9,7 @@
  - Less censorship and near zero gatekeepers. Tired of Paying Rent for your domains and websites. Now, WE CAN say [We Own The Internet](http://innerinetcompany.weowntheinternet.hns.to/) with [proof of work](https://hackernoon.com/everything-you-didnt-know-about-the-handshake-naming-system-how-this-blockchain-project-will-483464309f33). Make an offer on any of these Top Level Domains at [NameBase](https://namebase.io/), or [contact Inner I Net Company/](mailto:innerinetcompany@gmail.com) for a subdomain now!
 
 - [A👁/](https://allseeingi.xn--a-z42s.hns.to/)
+- [φ/](xn--7xa.hns.to/) The Golden Ratio
 - [鼠牛虎兔龙蛇马羊猴鸡狗猪/](http://bmindful.鼠牛虎兔龙蛇马羊猴鸡狗猪.hns.to/)
 - [🌲.Treed Up Binghi/](http://xn--vh8h.treedupbinghi.hns.to/)
 - [shivayogi.full🧘‍♂️/](http://shivayogi.xn--full-876a972b9249a76oo.hns.to/)
