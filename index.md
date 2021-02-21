@@ -57,7 +57,7 @@
 - [DECENTRALIZE DNS/](http://innerinetcompany.decentralizedns.hns.to/)
 - [DECENTRALIZED DNS/](http://dnsdesigns.decentralizeddns.hns.to/)
 - [DNS DESIGNS/](http://http://hnsroot.dnsdesigns.hns.to/)
-- [DNS-DESIGNS/]http://dns-designs.hns.to/)
+- [DNS-DESIGNS/](http://dns-designs.hns.to/)
 - [DNS-ROOTS/](http://dns-roots.hns.to/)
 - [DNS ROOT COMPANY/](http://dnsrootcompany.hns.to/)
 - [DNS SECURITY GROUP/](http://therootzone.dnssecuritygroup.hns.to/)
@@ -85,7 +85,7 @@
 - [googlerobot/](http://home.googlerobot.hns.to/)
 - [googlethatshit/](http://home.googlethatshit.hns.to/)
 - [googleusa/](http://home.googleusa.hns.to/)
-- [GURU GURU GURU/](http://guruguruguru.hns.to/]
+- [GURU GURU GURU/](http://guruguruguru.hns.to/)
 - [Handshake-Coin/](http://handshake-coin.hns.to/) 
 - [hackmedomain/](http://loveme.hackmedomain/)
 - [hackmeweb/](http://hns.hackmeweb/)
