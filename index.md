@@ -64,7 +64,7 @@
 - [DNS-ROOTS/](http://dns-roots.hns.to/)
 - [DNS ROOT COMPANY/](http://dnsrootcompany.hns.to/)
 - [DNS SECURITY GROUP/](http://therootzone.dnssecuritygroup.hns.to/)
-- [Domain ADMINinstrator/](http://hns-domains.domainadministrator.hns.to/)
+- [Domain ADMINinstrator/](http://handshake.domainadministrator.hns.to/)
 - [dragonriders/](http://the.dragonriders.hns.to/)
 - [Duppy-Spookler/](https://www.youtube.com/watch?v=ymVRPt9SZ_A)
 - [earthheart/](http://heartearth.earthheart/)
