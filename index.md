@@ -59,7 +59,7 @@
 - [DECENTRALIZED DNS/](http://dnsdesigns.decentralizeddns.hns.to/)
 - [Decentralized-SEO/](http://decentralized-seo.hns.to/)
 - [Decentralized-Search-Engine-Optimization/](http://decentralized-search-engine-optimization.hns.to/)
-- [DNS DESIGNS/](http://http://hnsroot.dnsdesigns.hns.to/)
+- [DNS DESIGNS/](http://hnsroot.dnsdesigns.hns.to/)
 - [DNS-DESIGNS/](http://dns-designs.hns.to/)
 - [DNS-ROOTS/](http://dns-roots.hns.to/)
 - [DNS ROOT COMPANY/](http://dnsrootcompany.hns.to/)
