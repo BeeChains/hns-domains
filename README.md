@@ -1,2 +1,2 @@
-# hns-domains | a Handshake top level domain
+# hns-domains |Handshake top level domains
 HNS-DOMAINS
