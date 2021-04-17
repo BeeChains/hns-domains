@@ -85,6 +85,7 @@
 - [HACK THE 🌈/](http://🕸3.hackthe🌈.hns.to/)
 - [HACKTHECOSMOS/](http://cosmicspace.hackthecosmos.hns.to/)
 - [HACKTHEWORLD/](http://home.hacktheworld.hns.to/)
+- [Handshake🤝/](http://xn--handshake-et86h.hns.to/)
 - [handshakeherenow/](http://hns.handshakeherenow.hns.to/)
 - [HANDSHAKE-SEO/](http://handshake-seo.hns.to/)
 - [hempdomain/](http://davenportrootscompany.hempdomain.hns.to/)
