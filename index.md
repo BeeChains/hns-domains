@@ -105,7 +105,7 @@
 - [HNS-GURU/](http://youareguru.hns-guru.hns.to/)
 - [HNS ROOT/](http://home.hnsroot.hns.to/)
 - [holistichealing/](http://innerinetcompany.holistichealing.hns.to/)
-- [iamahandshakedirector/](http://iamahandshakedirector.hns.to/)
+- [I Am A Handshake Director/](http://iamahandshakedirector.hns.to/)
 - [illuminati🙌congo/](https://illuminaticongo.com/) | [⚔.illuminati🙌congo.hns.to/](http://xn--s7h.xn--illuminaticongo-4319n.hns.to)
 - [INDIGO-STARSEED/](http://innerinetcompany.indigo-starseed.hns.to/)
 - [Infinite Handshake/](http://herenow.infinitehandshake.hns.to/)
