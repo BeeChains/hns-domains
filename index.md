@@ -170,7 +170,7 @@
 - [Third EYE UNITED Vision/](http://home.thirdeyeunitedvision.hns.to/)
 - [Time Is Art/](http://timeisart.hns.to/)
 - [TIN FOIL HATS/](http:tinfoilhats.hns.to/)
-- [Tin Foil Hat Gang/](http://the.tinfoilhatgang/)
+- [Tin Foil Hat Tribe/](http://tinfoilhattribe/)
 - [Top-SEO-2021/](http://top-seo-2021.hns.to/)
 - [TYE DYE/](http://tyedye.hns.to/)
 - [Universal Operational Ordinance/](https://www.dkb-mevlana.org.tr/en/txt/tanitim.pdf)
