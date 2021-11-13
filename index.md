@@ -10,6 +10,7 @@
 
 - [་/](http://་.hns.to/) | [(་.་)/](http://་.་.hns.to/)
 - [A👁/](http://allseeingi.xn--a-z42s.hns.to/)
+- [🐝iz/](https://xn--iz-7h72a.hns.to/)
 - [φ/](http://xn--7xa.hns.to/) Phi, The Golden Ratio
 - [鼠牛虎兔龙蛇马羊猴鸡狗猪/](http://bmindful.鼠牛虎兔龙蛇马羊猴鸡狗猪.hns.to/)
 - [天主/](http://xn--tiq49x.hns.to/)
