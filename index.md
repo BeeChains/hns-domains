@@ -194,3 +194,5 @@ For a subdomain, [contact](mailto:innerinetcompany@gmail.com)
 # Go 🤝 [Handshake.org](https://handshake.org/) | Join Here - [NameBase](https://www.namebase.io/register/o5muhq)
 # Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
 <iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
+
+<a class="twitter-timeline" href="https://twitter.com/HNSDOMAINS?ref_src=twsrc%5Etfw">Tweets by HNSDOMAINS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
