@@ -1,12 +1,12 @@
-## HNS-DOMAINS/ | We "Shape Reality" by establishing the "I" as the center of gravity. Built on a Handshake(HNS) blockchain root level domain directing all to Look Within oneself to the Source, the root of perception. Handshake helps us resolve self-sovereign identity by allowing true ownership of authentic web space vs. renting on the internet. 
-| [Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [Facebook](https://facebook.com/innerinetcompany) | [🐻💻/](http://xn--gp8h6h.hns.is/)
+## HNS-DOMAINS/ | We "Shape Reality" by establishing the "I" as the center of gravity with our domain name. Built on a Handshake(HNS) blockchain root level domain directing all to Look Within oneself to the Source, the root of perception. Handshake helps us resolve self-sovereign identity by allowing true ownership of authentic web space vs. renting on the internet. 
+| [Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [Facebook](https://facebook.com/innerinetcompany) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [Whois Search](https://who.is/)
 
 [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.is/)
 - [Carpediem.()](https://carpediem.xn---e7n.hns.to/)
 ["Knowledge is a possession of the mind, Truth is experience of the soul. The "I" of the material mind perceives only a world of factual knowledge but the "I" of spiritualized intellect discerns a world of true values."](https://youtu.be/U8QF2u5aw5o?t=1749)
 # At [Inner I Net Company](http://shapereality.innerinetcompany.hns.to/) our Handshake Top Level Domains are Grown from the ROOT OF PERCEPTION! [OwnTheWeb3/](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality/](http://innerinetcompany.shapereality.hns.is/) while customizing the Root Zone File of the Internet...Explore our [HNS-DOMAINS](http://home.hns-domains.hns.to/)
 
- - Less censorship and near zero gatekeepers. Tired of Paying Rent for your domains and websites. Now, WE CAN say [We Own The Internet](http://innerinetcompany.weowntheinternet/) with [proof of work](https://hackernoon.com/everything-you-didnt-know-about-the-handshake-naming-system-how-this-blockchain-project-will-483464309f33). Make an offer on any of these Top Level Domains at [NameBase](https://namebase.io/), or [contact Inner I Net Company/](mailto:innerinetcompany@gmail.com) for a subdomain now!
+ - Less censorship and near zero gatekeepers. Tired of Paying Rent for your domain names or websites? We have availability on many domains. Now, WE CAN say [We Own The Internet](http://innerinetcompany.weowntheinternet/) with [proof of work](https://hackernoon.com/everything-you-didnt-know-about-the-handshake-naming-system-how-this-blockchain-project-will-483464309f33). Buy or lookup any of these [Top Level Domain Names at NameBase](https://namebase.io/), or [contact Inner I Net Company/](mailto:innerinetcompany@gmail.com) for a subdomain now!
 
 - [་/](http://་.hns.to/) | [(་.་)/](http://་.་.hns.to/)
 - [A👁/](http://allseeingi.xn--a-z42s.hns.to/)
@@ -191,8 +191,8 @@ For a subdomain, [contact](mailto:innerinetcompany@gmail.com)
 - send ETH contributions to [0x5d9cb07d2f78dd60be6da855a97439c631d5b456](0x5d9cb07d2f78dd60be6da855a97439c631d5b456)
 - send HNS contributions to [hs1qgm5aqe467tuh9wauaffmtk49pw8euk2kww6hc8](hs1qgm5aqe467tuh9wauaffmtk49pw8euk2kww6hc8)
 - send BTC contributions to [17LnDXSxVDcWLKqaKLhtJV5w8L9PACwhNW](17LnDXSxVDcWLKqaKLhtJV5w8L9PACwhNW)
-# Go 🤝 [Handshake.org](https://handshake.org/) | Join Here - [NameBase](https://www.namebase.io/register/o5muhq)
-# Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
+# Go 🤝 [Handshake.org](https://handshake.org/) | Join Here - [NameBase](https://www.namebase.io/register/o5muhq) | Handshake domainname search [HNSSearch](https://handshakesearch.hns.siasky.net/)
+# Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company) 
 <iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
 
 <a class="twitter-timeline" href="https://twitter.com/HNSDOMAINS?ref_src=twsrc%5Etfw">Tweets by HNSDOMAINS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
