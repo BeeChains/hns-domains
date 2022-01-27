@@ -1,6 +1,7 @@
 ## HNS-DOMAINS/ 
 
-# | [Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [Facebook](https://facebook.com/innerinetcompany) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [Chinese](https://app.ardrive.io/#/file/8aafde46-1c3e-479a-a386-ee688cc3f4d8/view) | [Hindi](https://app.ardrive.io/#/file/b5d7a0f8-9ffc-485d-9686-167bbf658ee6/view) | [Latin](https://app.ardrive.io/#/file/d9314745-02e3-4820-b883-e837b62b94d8/view) | [Russian](https://app.ardrive.io/#/file/a9b0c5fe-b786-4fa3-9386-786e062fad76/view) | [Spanish](https://app.ardrive.io/#/file/057e4fad-01d8-49dc-b372-9aea8794063c/view) | [whois lookup](https://who.is/) |
+# EXPLORE, EXPRESS, EXPAND!
+| [Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [Facebook](https://facebook.com/innerinetcompany) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [Chinese](https://app.ardrive.io/#/file/8aafde46-1c3e-479a-a386-ee688cc3f4d8/view) | [Hindi](https://app.ardrive.io/#/file/b5d7a0f8-9ffc-485d-9686-167bbf658ee6/view) | [Latin](https://app.ardrive.io/#/file/d9314745-02e3-4820-b883-e837b62b94d8/view) | [Russian](https://app.ardrive.io/#/file/a9b0c5fe-b786-4fa3-9386-786e062fad76/view) | [Spanish](https://app.ardrive.io/#/file/057e4fad-01d8-49dc-b372-9aea8794063c/view) | [whois lookup](https://who.is/) |
 
 
 [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.is/)
