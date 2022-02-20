@@ -189,7 +189,5 @@ For a subdomain, [contact](mailto:innerinetcompany@gmail.com)
 - send HNS contributions to [hs1qgm5aqe467tuh9wauaffmtk49pw8euk2kww6hc8](hs1qgm5aqe467tuh9wauaffmtk49pw8euk2kww6hc8)
 - send BTC contributions to [17LnDXSxVDcWLKqaKLhtJV5w8L9PACwhNW](17LnDXSxVDcWLKqaKLhtJV5w8L9PACwhNW)
 # Go 🤝 [Handshake.org](https://handshake.org/) | Join Here - [NameBase](https://www.namebase.io/register/o5muhq) | Handshake domainname search [HNSSearch](https://handshakesearch.hns.siasky.net/)
-# Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company) 
-<iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
 
 <a class="twitter-timeline" href="https://twitter.com/HNSDOMAINS?ref_src=twsrc%5Etfw">Tweets by HNSDOMAINS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
