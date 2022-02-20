@@ -6,7 +6,8 @@
 
  - Less censorship and near zero gatekeepers. Tired of Paying Rent for your domain names or websites? We have availability on many domains. This website is a collection of our random $HNS domains and websites. We All Gonna Make It!
 
-# Register [YourName.🕸3/](https://gateway.io/tlds/xn--3-qn3s) see [@web3tld](https://twitter.com/web3tld)
+# Register [YourName.🕸3/](https://gateway.io/tlds/xn--3-qn3s) 
+
 - [་/](http://་.hns.to/) | [(་.་)/](http://་.་.hns.to/)
 - [A👁/](http://allseeingi.xn--a-z42s.hns.to/)
 - [🐝iz/](https://xn--iz-7h72a.hns.to/)
