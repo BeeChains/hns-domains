@@ -4,7 +4,7 @@
 | [by Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [whois lookup](https://who.is/) | [bz5z55e7xf](https://app.altermail.live/login) |
 
 
- - Less censorship and near zero gatekeepers. Tired of Paying Rent for your domain names or websites? We have availability on many domains. This website is a collection of our random $HNS domains and websites. We All Gonna Make It!
+ - Less censorship and near zero gatekeepers. Tired of Paying Rent for your domain names or websites? We have availability on many domains. HNS-DOMAINS/ is a collection for our proof of concept sites built using [Handshake](https://handshake.org/) Domains. We All Gonna Make It!
 
 # Register [YourName.🕸3/](https://gateway.io/tlds/xn--3-qn3s) 
 
