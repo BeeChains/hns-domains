@@ -1,12 +1,12 @@
 ## HNS-DOMAINS/ 🤝 | Buy Domain Names, Build Websites, Build dWeb
 
 # EXPLORE, EXPRESS, EXPAND!
-| [by Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [Facebook](https://facebook.com/innerinetcompany) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [whois lookup](https://who.is/) | [bz5z55e7xf](https://app.altermail.live/login) |
+| [by Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [whois lookup](https://who.is/) | [bz5z55e7xf](https://app.altermail.live/login) |
 
 
- - Less censorship and near zero gatekeepers. Tired of Paying Rent for your domain names or websites? We have availability on many domains. This was my original workspace, which has grown with Handshake. We are here to help you anyway we can with a subdomain or top level domain. All links lead to our contact most likely...
+ - Less censorship and near zero gatekeepers. Tired of Paying Rent for your domain names or websites? We have availability on many domains. This website is a collection of our random $HNS domains and websites. We All Gonna Make It!
 
-# Register [YourName.🕸3/](https://gateway.io/tlds/xn--3-qn3s) see [@web3tld](https://twitter.com/)
+# Register [YourName.🕸3/](https://gateway.io/tlds/xn--3-qn3s) see [@web3tld](https://twitter.com/web3tld)
 - [་/](http://་.hns.to/) | [(་.་)/](http://་.་.hns.to/)
 - [A👁/](http://allseeingi.xn--a-z42s.hns.to/)
 - [🐝iz/](https://xn--iz-7h72a.hns.to/)
