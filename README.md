@@ -1,3 +1,3 @@
-# hns-domains | Handshake top level domain names
-HNS-DOMAINS
-[Handshake.org/](https://handshake.org/)
+# hns-domains | proof-of-work
+
+learn about [Handshake.org/](https://handshake.org/)
