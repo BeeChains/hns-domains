@@ -193,4 +193,14 @@ For a subdomain, [contact](mailto:innerinetcompany@gmail.com)
 - send BTC contributions to [17LnDXSxVDcWLKqaKLhtJV5w8L9PACwhNW](17LnDXSxVDcWLKqaKLhtJV5w8L9PACwhNW)
 # Go 🤝 [Handshake.org](https://handshake.org/) | Join Here - [NameBase](https://www.namebase.io/register/o5muhq) | Handshake domainname search [HNSSearch](https://handshakesearch.hns.siasky.net/)
 
+<html lang="en">
+<head>
+    <title>LikeCoin button SDK demo</title>
+</head>
+<body>
+<div class="likecoin-embed likecoin-button" data-liker-id="hnsdomains" data-href="https://liker.land/hnsdomains/"></div>
+<script src="https://static.like.co/sdk/v1/button.js"></script>
+</body>
+</html>
+
 <a class="twitter-timeline" href="https://twitter.com/HNSDOMAINS?ref_src=twsrc%5Etfw">Tweets by HNSDOMAINS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
