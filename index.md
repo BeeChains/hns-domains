@@ -142,7 +142,7 @@
 - [OWN THE INNER I NET](http://youareguru.owntheinnerinet.hns.to/)
 - [ON THE WEB/](http://ontheweb.hns.to/)
 # [OwnTheWeb3/](http://official.owntheweb3.hns.to/) | [OnTheWEB3](http://innerinetcompany.ontheweb3.hns.to/)
-- [()/](http://home.xn---e7n.hns.to/) 
+- [()/](http://http://carpediem.xn---e7n/)
 - [prgms/](http://prgms.hns.to/)
 - [RAINBOW TRIBES/](http://unite.rainbowtribes.hns.to/)
 - [ROOT OF PERCEPTION/](http://rootofperception.hns.to/) | [gurudijeff.rootofperception/](http://gurudijeff.rootofperception.hns.to/)
