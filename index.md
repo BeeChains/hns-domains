@@ -1,7 +1,12 @@
 ## HNS-DOMAINS/ 🤝 | Buy Domain Names, Build Websites, Build dWeb
 
-# EXPLORE, EXPRESS, EXPAND!
 | [by Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [whois lookup](https://who.is/) | [bz5z55e7xf](https://app.altermail.live/login) |
+
+# Explore, Express, Expand!
+Fundamentals of Being. 
+1. It is natural to Explore for That which you seek to find.
+2. There is a natural momentum to Express what is found.
+3. Then follows the natural ability to Expand on That Found.
 
 
  # YourDomains + YourKeys = [Handshake](https://handshake.org/) Domains. 
