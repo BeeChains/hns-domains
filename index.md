@@ -133,7 +133,7 @@
 - [MEDICINETRIBE/](http://the.medicinetribe.hns.to/)
 - [🍄magic/](http://xn--hackthe-oq74f.xn--magic-yn93d.hns.to/) | [Hackthe🌈.🍄magic/](http://xn--hackthe-oq74f.xn--magic-yn93d.hns.to/)
 - [MySpiritWave Crypto Exchange](https://exchange.myspiritwave.xyz/) use my [CoinSwitch Referral link](https://coinswitch.co/?ref=ZTELTB86NM)
-# NetworkManager/ | [admin.networkmanager](http://admin.networkmanager.hns.to/) | [localhost.networkmanager](http://localhost.networkmanager/) | [root.networkmanager](http://root.networkmanager/) |
+- NetworkManager/ | [admin.networkmanager](http://admin.networkmanager.hns.to/) | [localhost.networkmanager](http://localhost.networkmanager/) | [root.networkmanager](http://root.networkmanager/) |
 
 - [NFT-TLD/](http://nft-tld.hns.to/)
 - [organicallygrown/](http://davenportrootscompany.organicallygrown.hns.to/)
@@ -181,7 +181,7 @@
 - [UX-MINDS/](http://ignite.ux-minds.hns.to/)
 - [W🕸b3/](http://home.xn--wb3-7023b.hns.to/)
 - [Web Security Group/](http://admin.websecuritygroup/)
-# [We OWN The INTERNET/](http://innerinetcompany.weowntheinternet.hns.is/) | [We OWN The WEB 3/](http://innerinetcompany.weowntheweb3.hns.is/)
+- [We OWN The INTERNET/](http://innerinetcompany.weowntheinternet.hns.is/) | [We OWN The WEB 3/](http://innerinetcompany.weowntheweb3.hns.is/)
 - [WE TRIPPY/](http://hns.wetrippy.hns.to/)
 - [you are guru/](http://iam.youareguru.hns.to/)
 
