@@ -4,9 +4,9 @@
 
 # Explore, Express, Expand!
 Fundamentals of Being. 
-1. It is natural to Explore for That which you seek to find.
-2. There is a natural momentum to Express what is found.
-3. Then follows the natural ability to Expand on That Found.
+1. It is natural to 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 for That which you seek to find.
+2. There is a natural momentum to 𝐄𝐱𝐩𝐫𝐞𝐬𝐬 what is found.
+3. Then follows a natural drive to 𝐄𝐱𝐩𝐚𝐧𝐝 on That Found.
 
 
  # YourDomains + YourKeys = [Handshake](https://handshake.org/) Domains. 
