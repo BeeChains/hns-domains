@@ -132,9 +132,7 @@
 - [Magiik/](http://magiik.hns.to/)
 - [MEDICINETRIBE/](http://the.medicinetribe.hns.to/)
 - [🍄magic/](http://xn--hackthe-oq74f.xn--magic-yn93d.hns.to/) | [Hackthe🌈.🍄magic/](http://xn--hackthe-oq74f.xn--magic-yn93d.hns.to/)
-- [MySpiritWave Crypto Exchange](https://exchange.myspiritwave.xyz/) use my [CoinSwitch Referral link](https://coinswitch.co/?ref=ZTELTB86NM)
 - NetworkManager/ | [admin.networkmanager](http://admin.networkmanager.hns.to/) | [localhost.networkmanager](http://localhost.networkmanager/) | [root.networkmanager](http://root.networkmanager/) |
-
 - [NFT-TLD/](http://nft-tld.hns.to/)
 - [organicallygrown/](http://davenportrootscompany.organicallygrown.hns.to/)
 - [OUDTREPRENEUR/](http://home.oudtrepreneur.hns.to/) I like Oud.
