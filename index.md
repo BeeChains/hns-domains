@@ -207,3 +207,9 @@ For a subdomain, [contact](mailto:innerinetcompany@gmail.com)
 </html>
 
 <a class="twitter-timeline" href="https://twitter.com/HNSDOMAINS?ref_src=twsrc%5Etfw">Tweets by HNSDOMAINS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# Get Traditional domains here 
+<form action="http://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
+Find your Domain: <input type="text" name="query" size="20" />
+<input type="submit" value="Go" />
+</form>
