@@ -2,7 +2,12 @@
 
 | [by Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [whois lookup](https://who.is/) | [bz5z55e7xf](https://app.altermail.live/login) | [dWorldWideWeb](https://dworldwideweb.com/) [WAGMI.dWorldWideWeb](https://wagmi.dworldwideweb.com/)
 
-<a href="http://wagmi.dworldwideweb.com/register.php">Click here to register with us</a>
+<a href="https://wagmi.dworldwideweb.com/register.php">Click here to register at WAGMI.dWorldWideWeb.com</a>
+
+<form action="https://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
+Find your Domain: <input type="text" name="query" size="20" />
+<input type="submit" value="Go" />
+</form>
 
 # Explore, Express, Expand!
 Fundamentals of Being. 
