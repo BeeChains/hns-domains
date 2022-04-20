@@ -3,7 +3,7 @@
 | [by Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [whois lookup](https://who.is/) | [bz5z55e7xf](https://app.altermail.live/login) | [dWorldWideWeb](https://dworldwideweb.com/) [WAGMI.dWorldWideWeb](https://wagmi.dworldwideweb.com/)
 
 # Register 🎉 [YourName.🕸3/](https://gateway.io/tlds/xn--3-qn3s)  🎉
-
+or use the domain lookup ⬇
 <a href="https://wagmi.dworldwideweb.com/register.php">Click here to register traditional domains at WAGMI.dWorldWideWeb.com</a>
 
 <form action="https://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
