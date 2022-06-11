@@ -1,6 +1,6 @@
 ## HNS-DOMAINS/ 🤝 | Buy Domain Names, Build Websites, Build dWeb
 
-| [by Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [whois lookup](https://who.is/) | [bz5z55e7xf](https://app.altermail.live/login) | [dWorldWideWeb](https://dworldwideweb.com/) [WAGMI.dWorldWideWeb](https://wagmi.dworldwideweb.com/)
+|[InnerINetCo/](https://innerinetco/) | [Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [InnerINetwork/](https://innerinetwork/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [whois lookup](https://who.is/) | [bz5z55e7xf](https://app.altermail.live/login) | [dWorldWideWeb](https://dworldwideweb.com/) [WAGMI.dWorldWideWeb](https://wagmi.dworldwideweb.com/)
 
 # Register 🎉 [YourName.🕸3/](https://gateway.io/tlds/xn--3-qn3s)  🎉
 
