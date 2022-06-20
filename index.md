@@ -1,3 +1,14 @@
+<head>
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7578TSZDVJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7578TSZDVJ');
+</script>
+</head>
 ## HNS-DOMAINS/ 🤝 | Buy Domain Names, Build Websites, Build dWeb
 ## [hns-domains.☕🤝.o̶l̶d̶i̶n̶t̶e̶r̶n̶e̶t̶.🫠🕳/](hns-domains.xn--53h2291o.xn--oldinternet-81gbbbbbbbbbb.xn--dy8hz0g.hns.is/)
 
