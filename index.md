@@ -31,7 +31,7 @@ Fundamentals of Being.
 3. Then follows a natural drive to 𝐄𝐱𝐩𝐚𝐧𝐝 on That Found.
 
 
- # YourDomains + YourKeys = [Handshake](https://handshake.org/) Domains. 
+ ## YourDomains + YourKeys = [Handshake](https://handshake.org/) Domains. 
  Tired of Paying Rent for your domain names or websites? We have availability on many domains. HNS-DOMAINS/ is a proof-of-work collection of websites that I built using [Handshake](https://handshake.org/) Domains. Please reach out to us [@HNSDOMAINS](https://twitter.com/HNSDOMAINS) if you are interested! We All Gonna Make It!
 
 # Register [YourName.🕸3/](https://gateway.io/tlds/xn--3-qn3s) 
