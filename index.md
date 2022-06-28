@@ -25,7 +25,7 @@ Fundamentals of Being.
  ## YourDomains + YourKeys = [Handshake](https://handshake.org/) Domains. 
  Tired of Paying Rent for your domain names or websites? We have availability on many domains. HNS-DOMAINS/ is a proof-of-work collection of websites that I built using [Handshake](https://handshake.org/) Domains. Please reach out to us [@HNSDOMAINS](https://twitter.com/HNSDOMAINS) if you are interested! We All Gonna Make It!
 
-# Register [YourName.🕸3/](https://gateway.io/tlds/xn--3-qn3s) 
+# Register YourName.🕸3/ 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/SgSyavoBt8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
