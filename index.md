@@ -17,13 +17,6 @@
 
 # Register 🎉 [YourName.🕸3/](https://gateway.io/tlds/xn--3-qn3s)  🎉
 
-<a href="https://wagmi.dworldwideweb.com/register.php">Click here to register traditional domains at WAGMI.dWorldWideWeb.com</a> or use the domain lookup ⬇
-
-<form action="https://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
-Find your Domain: <input type="text" name="query" size="20" />
-<input type="submit" value="Go" />
-</form>
-
 # Explore, Express, Expand!
 Fundamentals of Being. 
 1. It is natural to 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 for That which you seek to find.
