@@ -10,13 +10,6 @@
 </script>
 </head>
 
-                                 \\ \\       ;. ,-.           ,-.       ,-.     _                                            ,-~~\                                           ()  ;.                                    ,-.       ,-.\\ \\                 .''.           ;.                                                                                         _       ,-.                      ;.                            ,-~~\        ,-.       ,-.                 _                                  .  0    1
-        .-.                   ||  \\ \\     ; | | |    .-.   <,- \_____/  ` __,(: `,_,.          ||                     ___   (   \                       ___           ||   () ; |          ||          .-.   ____   <,- \_____/  ` \\ \\         ___    '.' )         ; |                            ||                            ||           .-.           __,(: `,_,. | |    .-.   \/         ; |             .-.             (   \      <,- \_____/  `         ||  __,(: `,_,.  ____           ||                  
- _____ _|_ \         ....     ||   \\ \\    `.| | '   _|_ \    /  ___. \   (.-_-   __ | ....     ||  .---.     .-==-.  |   |   |\. \             .-==-.  |   | ....     ||   () `.| ....     ||  .---.  _|_ \  /  \     /  ___. \     \\ \\   __  |   |      /   .---.  `.|  .-==-.   .-==-.  ....     ||            .---.  ....     || .-===-., _|_ \  .---.  (.-_-   __ | | '   _|_ \ `-'_        `.|  .-==-.    _|_ \             |\. \       /  ___. \   ....     || (.-_-   __ |  /  \  ....     ||  .---.           
-/_____ (_)   ^^^^^^^ `=.`''===.'    \\ \\     | |     (_)   ,_(__/ ,_(__\    `----'  -' `=.`''===.' '.___.'   /______\ | |_|  _]_]`\\ ^^^^^^^   /______\ | |_| `=.`''===.'   /\   | `=.`''===.' '.___.' (_)   /_/\_\ ,_(__/ ,_(__\     \\ \\ |__| | |_|    .'   '.___.'   | /______\ /______\ `=.`''===.' ^^^^^^^   '.___.' `=.`''===.' `.___.'  (_)   '.___.'   `----'  -' |     (_)       `---.     | /______\   (_)   ^^^^^^^    _]_]`\\   ,_(__/ ,_(__\  `=.`''===.'   `----'  -' /_/\_\ `=.`''===.' '.___.'          
-
-
-
 ## HNS-DOMAINS/ 🤝 | Buy Domain Names, Build Websites, Build dWeb
 ## [HandshakeNFT/](http://block1.handshakenft.hns.is/)
 ## [tweet.hns-domains.☕🤝.o̶l̶d̶i̶n̶t̶e̶r̶n̶e̶t̶.🫠🕳/](http://tweet.hns-domains.xn--53h2291o.xn--oldinternet-81gbbbbbbbbbb.xn--dy8hz0g.hns.is/)
@@ -230,8 +223,11 @@ For a subdomain, [contact](mailto:innerinetcompany@gmail.com)
 
 <a class="twitter-timeline" href="https://twitter.com/HNSDOMAINS?ref_src=twsrc%5Etfw">Tweets by HNSDOMAINS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# Get Traditional domains here 
-<form action="http://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
-Find your Domain: <input type="text" name="query" size="20" />
-<input type="submit" value="Go" />
-</form>
+Find your Domain: 
+
+Money Language - Money is older than the Hieroglyph written records of it on a ledger
+
+- [Op_Return.net](https://opreturn.net/3b2434062bd026c40e5b2138f01d6eccbee444247d14ff017ecdfe183c9f64fe)
+- [Hieroglyph Art made at MobileFish](https://www.mobilefish.com/services/hieroglyphs/)
+
+![image](https://i.arxius.io/561b8668.png)
