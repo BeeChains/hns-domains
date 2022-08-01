@@ -10,7 +10,7 @@
 </script>
 </head>
 
-[![image](https://lh3.googleusercontent.com/pjZPjCOdUiVUWFmtchr9VxA10bwjhHWftFtGBlxkenOndKoYWF7aHQq8k09dINmksthHNu6t-0l5HWQiJpVEGtzNKDDkq-xHUM4V=s0)](https://opensea.io/assets/matic/0xaea52bce4bcedc0358e43ebd51fd9295582d9a92/74850691314752607229255690688966217025085971420026707267690571400387239596397/)
+[![image](https://lh3.googleusercontent.com/pjZPjCOdUiVUWFmtchr9VxA10bwjhHWftFtGBlxkenOndKoYWF7aHQq8k09dINmksthHNu6t-0l5HWQiJpVEGtzNKDDkq-xHUM4V=s0)](https://www.abcmeta.io/invite/956494)
 
 ## HNS-DOMAINS/ 🤝 | Buy Domain Names, Build Websites, Build dWeb
 ## [HandshakeNFT/](http://block1.handshakenft.hns.is/)
