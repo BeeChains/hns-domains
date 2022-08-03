@@ -33,6 +33,7 @@ Fundamentals of Being.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/SgSyavoBt8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# [MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/](http://moneylanguage.xn--5o7da03hnd9sv9apze.hns.is/)
 - [་/](http://་.hns.to/) | [(་.་)/](http://་.་.hns.to/)
 - [A👁/](http://allseeingi.xn--a-z42s.hns.to/)
 - [🐝iz/](https://xn--iz-7h72a.hns.to/)
@@ -225,9 +226,9 @@ For a subdomain, [contact](mailto:innerinetcompany@gmail.com)
 
 <a class="twitter-timeline" href="https://twitter.com/HNSDOMAINS?ref_src=twsrc%5Etfw">Tweets by HNSDOMAINS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Find your Domain: 
+# [MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/](http://moneylanguage.xn--5o7da03hnd9sv9apze.hns.is/)
 
-Money Language - Money is older than the Hieroglyph written records of it on a ledger
+Money Language - Money is older than the Hieroglyph records of it on a ledger...
 
 - [Op_Return.net](https://opreturn.net/3b2434062bd026c40e5b2138f01d6eccbee444247d14ff017ecdfe183c9f64fe)
 - [Hieroglyph Art made at MobileFish](https://www.mobilefish.com/services/hieroglyphs/)
