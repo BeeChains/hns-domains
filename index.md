@@ -19,7 +19,6 @@
 
 |[InnerINetCo/](https://innerinetco/) | [Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [InnerINetwork/](https://innerinetwork/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [whois lookup](https://who.is/) | [bz5z55e7xf](https://app.altermail.live/login) | [dWorldWideWeb](https://dworldwideweb.com/) | [sats.coffeemaster/](http://sats.coffeemaster.hns.is/) | [BTCOPS.IINC/](http://btcops.iinc.hns.is/) |
 <marquee
-
      direction="left"
      loop="7"
      scrollamount="3"
@@ -27,8 +26,7 @@
      behavior="left"
      width="144%"
      bgcolor="#020320"
-
-     >
+   >
 AR.🐘🕸/ 🔗 MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/ 🔗 home.HNS-DOMAINS/ 🔗 InnerINetwork/
 </marquee>
 # Explore, Express, Expand!
