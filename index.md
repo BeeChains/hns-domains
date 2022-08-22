@@ -29,7 +29,7 @@
      bgcolor="#020320"
 
      >
-🐘🕸
+🐘🕸 , MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/ , home.HNS-DOMAINS/ , InnerINetwork/
 </marquee>
 # Explore, Express, Expand!
 Fundamentals of Being. 
