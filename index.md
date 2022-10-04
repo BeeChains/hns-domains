@@ -9,6 +9,7 @@
   gtag('config', 'G-7578TSZDVJ');
 </script>
  <script async src="https://components.getmash.com/boost/boost.js"></script>
+ <link rel="shortcut icon" href="https://4svyt72g6tgy2ear52zxoko44hnfibiocgokfl3yoqncene527lq.arweave.net/5KuJ_0b0zY0QEe6zdync4dpUBQ4RnKKveHQaIjSd19c">
 </head>
 <script type="application/javascript" defer="defer">
   (function () {
